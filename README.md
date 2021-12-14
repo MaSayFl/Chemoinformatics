@@ -11,3 +11,7 @@ The following assignments must be done in a jupyter notebook
 
 4. Depict your molecules
 Calculate similarity of molecules using MACCS Keys, Morgan Fingerprints, and RDKit fingerprint. Plot distribution of similarity values.
+
+## Chemo_2
+
+A practical tutorial with DeepChem
