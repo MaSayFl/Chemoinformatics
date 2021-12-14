@@ -18,4 +18,4 @@ A practical tutorial with DeepChem
 
 ## Chemo-3
 
-A task for testing different machine learning models
+In this task I train and test different ML models on SCAMS dataset
