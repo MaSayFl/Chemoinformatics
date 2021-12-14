@@ -15,3 +15,7 @@ Calculate similarity of molecules using MACCS Keys, Morgan Fingerprints, and RDK
 ## Chemo_2
 
 A practical tutorial with DeepChem
+
+## Chemo-3
+
+A task for testing different machine learning models
